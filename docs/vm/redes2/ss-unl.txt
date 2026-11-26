@@ -1,6 +1,0 @@
-State  Recv-Q Send-Q                  Local Address:Port Peer Address:PortProcess
-UNCONN 0      0                          127.0.0.54:53        0.0.0.0:*          
-UNCONN 0      0                       127.0.0.53%lo:53        0.0.0.0:*          
-UNCONN 0      0                             0.0.0.0:5355      0.0.0.0:*          
-UNCONN 0      0      [fe80::216:3eff:fecf:cf1]%eth0:546          [::]:*          
-UNCONN 0      0                                [::]:5355         [::]:*          

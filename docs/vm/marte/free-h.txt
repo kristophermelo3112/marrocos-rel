@@ -1,3 +1,0 @@
-              total        used        free      shared  buff/cache   available
-Mem:         125.8G       50.2G       75.1G       35.8G      473.0M      125.8G
-Swap:             0           0           0

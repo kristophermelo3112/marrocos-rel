@@ -1,2 +1,0 @@
-lo               UNKNOWN        127.0.0.1/8 
-enp5s0           UP             10.161.150.14/16 metric 1024 

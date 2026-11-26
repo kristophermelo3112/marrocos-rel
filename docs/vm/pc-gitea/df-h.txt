@@ -1,8 +1,0 @@
-Filesystem                      Size  Used Avail Use% Mounted on
-/dev/mapper/vg--debian-db--var  458G  369G   70G  85% /
-none                             10M  4.0K   10M   1% /dev
-udev                             63G     0   63G   0% /dev/tty
-tmpfs                           100K     0  100K   0% /dev/incus
-tmpfs                           100K     0  100K   0% /dev/.incus-mounts
-tmpfs                            26G  140K   26G   1% /run
-shm                              63G     0   63G   0% /dev/shm

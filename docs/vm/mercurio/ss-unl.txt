@@ -1,2 +1,0 @@
-State  Recv-Q Send-Q                    Local Address:Port Peer Address:Port
-UNCONN 0      0      [fe80::1266:6aff:fe6d:a277]%eth0:546          [::]:*   
